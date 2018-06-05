@@ -90,10 +90,10 @@ Time to make a page! Now that you have your information (and preferably, images)
 
 #### First, let's see what ways you can control your vistors' activity on your page.
 Select *Settings* from your new page. You'll be at the *general* section. Here, you can see some helpful options:
-  * __Visitor Posts:__ Allow visitors to directly post photos and videos on your page, or choose to review and approve each of these posts.
-  * __Messages:__ Allow visitors to contact you directly through Messenger.
-  * __Tagging Ability:__ You can allow visitors and other pages to tag photos on your page.
-  * __Profanity Filter:__ Prevent profanity or curse words. This is a bit more advanced, and worth investigating personally!
+ * __Visitor Posts:__ Allow visitors to directly post photos and videos on your page, or choose to review and approve each of these posts.
+ * __Messages:__ Allow visitors to contact you directly through Messenger.
+ * __Tagging Ability:__ You can allow visitors and other pages to tag photos on your page.
+ * __Profanity Filter:__ Prevent profanity or curse words. This is a bit more advanced, and worth investigating personally!
 
 #### Let's take a moment to set your security settings, and ensure they're working.
 
