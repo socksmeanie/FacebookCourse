@@ -1,4 +1,4 @@
-##Introduction
+## Introduction
 Welcome to the course! Before we start in on the *hows* of social media marketing, let's establish the *why*. Let me throw some numbers at you.
 
 - Facebook has over a billion users, and Instagram has 700 million.
@@ -80,27 +80,27 @@ To create your Facebook page, it's best to use a computer for the job. However, 
 
   [image]
 
-  ## Let's Get Our Hands Dirty!
+## Let's Get Our Hands Dirty!
 
-  Time to make a page! Now that you have your information (and preferably, images), we can create a page. Navigate to the left-hand sidebar of your main feed page. You'll see a spot at a bottom, labelled with *Create.* You'll soon be familiar with all of these options! For now, select *Page*, and get going!
+Time to make a page! Now that you have your information (and preferably, images), we can create a page. Navigate to the left-hand sidebar of your main feed page. You'll see a spot at a bottom, labelled with *Create.* You'll soon be familiar with all of these options! For now, select *Page*, and get going!
 
   [20 min activity, followed by a small break]
 
-  ## Security Settings
+## Security Settings
 
-  #### First, let's see what ways you can control your vistors' activity on your page.
-  Select *Settings* from your new page. You'll be at the *general* section. Here, you can see some helpful options:
-    * __Visitor Posts:__ Allow visitors to directly post photos and videos on your page, or choose to review and approve each of these posts.
-    * __Messages:__ Allow visitors to contact you directly through Messenger.
-    * __Tagging Ability:__ You can allow visitors and other pages to tag photos on your page.
-    * __Profanity Filter:__ Prevent profanity or curse words. This is a bit more advanced, and worth investigating personally!
+#### First, let's see what ways you can control your vistors' activity on your page.
+Select *Settings* from your new page. You'll be at the *general* section. Here, you can see some helpful options:
+  * __Visitor Posts:__ Allow visitors to directly post photos and videos on your page, or choose to review and approve each of these posts.
+  * __Messages:__ Allow visitors to contact you directly through Messenger.
+  * __Tagging Ability:__ You can allow visitors and other pages to tag photos on your page.
+  * __Profanity Filter:__ Prevent profanity or curse words. This is a bit more advanced, and worth investigating personally!
 
-    #### Let's take a moment to set your security settings, and ensure they're working.
+#### Let's take a moment to set your security settings, and ensure they're working.
 
-  ##  Basics of Page Promotion
-  __Insert Photos and Videos__
+##  Basics of Page Promotion
+__Insert Photos and Videos__
 
-  While creating a post, you can use the dropdown menu to the right, then click *Upload Photos/Video.*
+While creating a post, you can use the dropdown menu to the right, then click *Upload Photos/Video.*
 
   __Publish Your Post__
 
